@@ -41,12 +41,12 @@
 - Internet connection for streaming
 - Storage permission for downloads
 
-### 🚀 **Smart & Connected**
+### **Smart & Connected**
 *   **Auto-Updater**: Automatically checks for updates via our custom API.
 *   **No Account Required**: Start instantly with no sign-ups.
 *   **Offline Access**: Save episodes locally for convenience.
 
-### 🎨 **Beautiful Design**
+###  **Beautiful Design**
 *   **Modern UI/UX**: Sleek dark-themed interface with a clean layout.
 *   **Personalization**: Manage favorites and continue watching easily.
 
@@ -55,11 +55,11 @@ Download the latest APK directly from our landing page or GitHub releases.
 
 ---
 
-
-## 📥 Download
+##  Download
 
 <div align="center">
-The latest version is always available via our official website.
+
+  
   <br>
   <a href="https://inanime.vercel.app/api/download">
     <img src="https://img.shields.io/badge/Download_APK-ff4757?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
@@ -68,9 +68,9 @@ The latest version is always available via our official website.
 
 ---
 
-## 💖 Support the Project
+##  Support the Project
 
-Th3-Anime is a passion project developed by **Th3-C0der**. If you enjoy the app and want to support its development or server costs, it is greatly appreciated.
+In Anime is a passion project developed by **In Anime**. If you enjoy the app and want to support its development or server costs, it is greatly appreciated.
 
 <div align="center">
   <a href="https://inanime.vercel.app/support" target="_blank">
