@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://inanime.vercel.app/images/inanime-logo.png" alt="In Anime Logo" width="140" />
-  <h1>Th3-Anime</h1>
+  <h1>In Anime</h1>
   <br />
   <h3>The Ultimate Anime Experience</h3>
 
