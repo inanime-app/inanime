@@ -4,7 +4,7 @@
   <br />
   <h3>The Ultimate Anime Experience</h3>
 
-  [![Downloads]([https://img.shields.io/github/downloads/Th3-C0der/Th3-Anime/total?style=flat&label=Downloads&color=2ed573](https://inanime.vercel.app/api/download))]
+  [![Downloads](https://img.shields.io/github/downloads/Th3-C0der/Th3-Anime/total?style=flat&label=Downloads&color=2ed573)](https://github.com/Th3-C0der/Th3-Anime/releases)
   [![Discord](https://img.shields.io/badge/Community-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/neqJCXe3C8)
 
   <p>
