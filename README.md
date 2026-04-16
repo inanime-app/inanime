@@ -4,9 +4,8 @@
   <br />
   <h3>The Ultimate Anime Experience</h3>
 
-  [![Downloads](https://img.shields.io/github/downloads/Th3-C0der/Th3-Anime/total?style=flat&label=Downloads&color=2ed573)](https://github.com/Th3-C0der/Th3-Anime/releases)
-  [![Support](https://img.shields.io/badge/❤%20Support-f7023c?style=flat)](https://th3-anime.pages.dev/support)
-  [![Discord](https://img.shields.io/badge/Community-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/Kzf3pMBQx2)
+  [![Downloads]([https://img.shields.io/github/downloads/Th3-C0der/Th3-Anime/total?style=flat&label=Downloads&color=2ed573](https://inanime.vercel.app/api/download))]
+  [![Discord](https://img.shields.io/badge/Community-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/neqJCXe3C8)
 
   <p>
     <b>Th3-Anime</b> is a high-performance mobile application built for anime enthusiasts. Designed with modern technology to deliver a smooth, fast, and distraction-free viewing experience on Android devices.
