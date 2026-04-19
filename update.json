@@ -1,6 +1,6 @@
 {
-  "latest": "1.0.4",
-  "min_supported": "1.0.4",
+  "latest": "1.0.5",
+  "min_supported": "1.0.5",
   "force": false,
-  "apk_url": "https://github.com/inanime-app/inanime/releases/download/v1.0.4/Inanime.apk"
+  "apk_url": "https://github.com/inanime-app/inanime/releases/download/v1.0.5/Inanime.apk"
 }
